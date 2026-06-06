@@ -1,0 +1,68 @@
+# Quartus
+
+db/
+incremental_db/
+output_files/
+simulation/
+greybox_tmp/
+*.qws
+*.rpt
+*.summary
+*.smsg
+*.qdf
+*.pin
+*.sof
+*.pof
+*.jic
+*.rbf
+
+# Platform Designer / Qsys
+
+*.qsys_edit
+*.qws
+
+# Nios II BSP
+
+*_bsp/
+.settings/
+.metadata/
+
+# Eclipse/Nios IDE
+
+.project
+.cproject
+*.launch
+
+# Build files
+
+Debug/
+Release/
+obj/
+bin/
+
+# Executables
+
+*.elf
+*.map
+*.hex
+*.flash
+*.srec
+
+# Logs
+
+*.log
+
+# Backup files
+
+*.bak
+*.tmp
+*.swp
+
+# VS Code
+
+.vscode/
+
+# Windows
+
+Thumbs.db
+Desktop.ini
