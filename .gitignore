@@ -57,7 +57,8 @@ bin/
 *.bak
 *.tmp
 *.swp
-
+*.tcl
+*.tcl~
 # VS Code
 
 .vscode/
